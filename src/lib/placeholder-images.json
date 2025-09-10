@@ -29,6 +29,24 @@
       "description": "Petri dishes with cultures.",
       "imageUrl": "https://picsum.photos/seed/lifeline5/600/400",
       "imageHint": "petri dish"
+    },
+    {
+      "id": "product-1",
+      "description": "Advanced DNA Sequencer machine.",
+      "imageUrl": "https://picsum.photos/seed/lifeline6/600/400",
+      "imageHint": "dna sequencer"
+    },
+    {
+      "id": "product-2",
+      "description": "Modern protein analyzer equipment.",
+      "imageUrl": "https://picsum.photos/seed/lifeline7/600/400",
+      "imageHint": "protein analyzer"
+    },
+    {
+      "id": "product-3",
+      "description": "Automated cell culture system in a lab.",
+      "imageUrl": "https://picsum.photos/seed/lifeline8/600/400",
+      "imageHint": "cell culture"
     }
   ]
 }
