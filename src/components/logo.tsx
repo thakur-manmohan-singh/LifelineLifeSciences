@@ -1,12 +1,15 @@
-import { FlaskRound } from 'lucide-react';
+import Image from 'next/image';
 
 export function Logo() {
   return (
-    <a href="/" className="flex items-center gap-2" aria-label="Lifeline Life Sciences Homepage">
-      <FlaskRound className="h-8 w-8 text-primary" />
-      <span className="font-headline text-xl font-semibold text-foreground">
-        Lifeline Life Sciences
-      </span>
+    <a href="/" className="flex items-center gap-2" aria-label="Advanced Care Homepage">
+      <Image
+        src="/images/logo.png"
+        alt="Advanced Care Logo"
+        width={180}
+        height={40}
+        priority
+      />
     </a>
   );
 }
