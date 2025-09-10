@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A modern laboratory with scientists working.",
+      "imageUrl": "https://picsum.photos/seed/lifeline1/1920/1080",
+      "imageHint": "laboratory science"
+    },
+    {
+      "id": "about-image",
+      "description": "A close-up of a DNA helix structure.",
+      "imageUrl": "https://picsum.photos/seed/lifeline2/800/600",
+      "imageHint": "dna research"
+    },
+    {
+      "id": "service-1",
+      "description": "Microscope in a lab.",
+      "imageUrl": "https://picsum.photos/seed/lifeline3/600/400",
+      "imageHint": "microscope lab"
+    },
+    {
+      "id": "service-2",
+      "description": "Scientist holding a test tube.",
+      "imageUrl": "https://picsum.photos/seed/lifeline4/600/400",
+      "imageHint": "scientist chemistry"
+    },
+    {
+      "id": "service-3",
+      "description": "Petri dishes with cultures.",
+      "imageUrl": "https://picsum.photos/seed/lifeline5/600/400",
+      "imageHint": "petri dish"
+    }
+  ]
 }
