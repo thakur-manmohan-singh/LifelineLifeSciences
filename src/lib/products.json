@@ -2,24 +2,10 @@
   "products": [
     {
       "id": "prod-1",
-      "name": "Advanced DNA Sequencer",
-      "description": "High-throughput DNA sequencing for comprehensive genomic analysis.",
-      "price": "50,000",
+      "name": "Ciprolife-750",
+      "description": "Ciprofloxacin Tablets USP 750 mg. 10 x 10 Tablets.",
+      "price": "",
       "imageId": "product-1"
-    },
-    {
-      "id": "prod-2",
-      "name": "Protein Analyzer",
-      "description": "State-of-the-art analysis of protein structures and functions.",
-      "price": "25,000",
-      "imageId": "product-2"
-    },
-    {
-      "id": "prod-3",
-      "name": "Cell Culture System",
-      "description": "Automated system for optimal cell growth and maintenance.",
-      "price": "15,000",
-      "imageId": "product-3"
     }
   ]
 }

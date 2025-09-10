@@ -36,8 +36,7 @@ export default function ProductsSection() {
                 </CardHeader>
                 <CardContent className="flex flex-1 flex-col">
                   <CardDescription className="flex-1">{product.description}</CardDescription>
-                  <div className="mt-4 flex items-end justify-between">
-                    <div className="font-headline text-2xl font-bold">${product.price}</div>
+                  <div className="mt-4 flex items-end justify-end">
                     <Button asChild>
                       <a href="#contact">Inquire</a>
                     </Button>

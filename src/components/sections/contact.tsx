@@ -95,8 +95,8 @@ export default function Contact() {
                 <div>
                   <h4 className="font-semibold">Address</h4>
                   <p className="text-foreground/80">
-                    B-34, Industrial Estate, Partapur,<br />
-                    Meerut, Uttar Pradesh, 250103, India
+                    UNIT NO-17 1st Floor, ILD TRADE TOWER,<br />
+                    Sohna Road, SECTOR-47 GURGAON
                   </p>
                 </div>
               </div>
