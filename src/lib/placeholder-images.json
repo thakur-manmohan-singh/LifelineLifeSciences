@@ -33,14 +33,20 @@
     {
       "id": "product-1",
       "description": "Ciprolife-750 product box",
-      "imageUrl": "https://picsum.photos/seed/ciprolife/600/400",
+      "imageUrl": "/images/ciprolife.png",
       "imageHint": "medicine box"
     },
     {
       "id": "product-2",
       "description": "Azilife-500 product box",
-      "imageUrl": "https://picsum.photos/seed/azilife/600/400",
+      "imageUrl": "/images/azilife.png",
       "imageHint": "medicine box"
+    },
+    {
+      "id": "product-3",
+      "description": "A new product",
+      "imageUrl": "https://picsum.photos/seed/lifeline6/600/400",
+      "imageHint": "new product"
     }
   ]
 }
