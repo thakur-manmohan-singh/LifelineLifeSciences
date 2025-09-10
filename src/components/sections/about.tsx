@@ -11,10 +11,10 @@ export default function About() {
         <div className="grid gap-12 md:grid-cols-2 md:gap-16 lg:gap-24">
           <div className="flex flex-col justify-center">
             <h2 className="font-headline text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-              About Advanced Care
+              About Lifeline Life Sciences
             </h2>
             <p className="mt-6 text-lg text-foreground/80">
-              At Advanced Care, we are driven by a singular mission: to forge new pathways in health and biotechnology. Our team of dedicated scientists and researchers leverages cutting-edge technology and collaborative partnerships to develop innovative solutions that address some of the most pressing health challenges of our time. From pioneering new diagnostic tools to advancing therapeutic research, we are committed to enhancing the quality of life and building a healthier future for all.
+              At Lifeline Life Sciences, we are driven by a singular mission: to forge new pathways in health and biotechnology. Our team of dedicated scientists and researchers leverages cutting-edge technology and collaborative partnerships to develop innovative solutions that address some of the most pressing health challenges of our time. From pioneering new diagnostic tools to advancing therapeutic research, we are committed to enhancing the quality of life and building a healthier future for all.
             </p>
           </div>
           <div className="flex items-center justify-center">

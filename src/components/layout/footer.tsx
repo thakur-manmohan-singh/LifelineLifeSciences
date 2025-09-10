@@ -42,7 +42,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t border-border pt-8 text-center text-sm text-foreground/60">
-          <p>&copy; {year} Advanced Care. All rights reserved.</p>
+          <p>&copy; {year} Lifeline Life Sciences. All rights reserved.</p>
         </div>
       </div>
     </footer>

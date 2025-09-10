@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'Advanced Care',
+  title: 'Lifeline Life Sciences',
   description: 'Pioneering the Future of Life Sciences',
 };
 

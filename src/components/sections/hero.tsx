@@ -27,7 +27,7 @@ export default function Hero() {
             Pioneering the Future of Life Sciences
           </h1>
           <p className="mx-auto mt-6 max-w-3xl text-lg text-gray-200 drop-shadow-md md:text-xl">
-            Advanced Care is dedicated to advancing healthcare through innovative research and development.
+            Lifeline Life Sciences is dedicated to advancing healthcare through innovative research and development.
           </p>
           <div className="mt-10">
             <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
