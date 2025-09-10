@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="space-y-4">
             <Logo />
             <p className="max-w-xs text-sm text-foreground/80">
-              Advancing healthcare through innovative research and development.
+              Pioneering the Future of Life Sciences.
             </p>
           </div>
           <div className="grid gap-8 sm:grid-cols-2 md:col-span-2 md:grid-cols-3">
