@@ -6,6 +6,13 @@
       "description": "Ciprofloxacin Tablets USP 750 mg. 10 x 10 Tablets.",
       "price": "",
       "imageId": "product-1"
+    },
+    {
+      "id": "prod-2",
+      "name": "Azilife-500",
+      "description": "Azithromycin tablets 500 mg. 3 tablets.",
+      "price": "",
+      "imageId": "product-2"
     }
   ]
 }
