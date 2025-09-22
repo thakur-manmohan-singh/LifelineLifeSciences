@@ -7,6 +7,7 @@ import { Logo } from '@/components/logo';
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import { cn } from '@/lib/utils';
+import { ThemeToggle } from '@/components/theme-toggle';
 
 const navItems = [
   { href: '#home', label: 'Home' },
@@ -48,6 +49,7 @@ export default function Header() {
               {item.label}
             </Link>
           ))}
+          <ThemeToggle />
           <Button asChild>
             <Link href="#contact">Contact Us</Link>
           </Button>
@@ -63,8 +65,9 @@ export default function Header() {
             </SheetTrigger>
             <SheetContent side="right" className="w-[300px] sm:w-[400px]">
               <div className="p-4">
-                <div className="mb-8">
+                <div className="mb-8 flex justify-between items-center">
                   <Logo />
+                  <ThemeToggle />
                 </div>
                 <nav className="flex flex-col items-start gap-6">
                   {navItems.map((item) => (
