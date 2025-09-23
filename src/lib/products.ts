@@ -5,7 +5,7 @@ export type Product = {
   name: string;
   description: string;
   price: string;
-  imageId: string;
+  imageUrl: string;
 };
 
 export const Products: Product[] = data.products;

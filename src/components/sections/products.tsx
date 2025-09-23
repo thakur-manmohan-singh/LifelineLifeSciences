@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import { Products } from '@/lib/products';
-import { PlaceHolderImages } from '@/lib/placeholder-images';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 
@@ -17,34 +16,29 @@ export default function ProductsSection() {
           </p>
         </div>
         <div className="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-          {Products.map((product) => {
-            const productImage = PlaceHolderImages.find(p => p.id === product.imageId);
-            return (
-              <Card key={product.id} className="flex flex-col overflow-hidden shadow-lg transition-transform duration-300 hover:-translate-y-2">
-                {productImage && (
-                   <Image
-                      src={productImage.imageUrl}
-                      alt={productImage.description}
-                      width={600}
-                      height={400}
-                      className="aspect-[3/2] w-full object-cover"
-                      data-ai-hint={productImage.imageHint}
-                    />
-                )}
-                <CardHeader>
-                  <CardTitle className="font-headline">{product.name}</CardTitle>
-                </CardHeader>
-                <CardContent className="flex flex-1 flex-col">
-                  <CardDescription className="flex-1">{product.description}</CardDescription>
-                  <div className="mt-4 flex items-end justify-end">
-                    <Button asChild>
-                      <a href="#contact">Inquire</a>
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
-            );
-          })}
+          {Products.map((product) => (
+            <Card key={product.id} className="flex flex-col overflow-hidden shadow-lg transition-transform duration-300 hover:-translate-y-2">
+               <Image
+                  src={product.imageUrl}
+                  alt={product.name}
+                  width={600}
+                  height={400}
+                  className="aspect-[3/2] w-full object-cover"
+                  data-ai-hint="medicine box"
+                />
+              <CardHeader>
+                <CardTitle className="font-headline">{product.name}</CardTitle>
+              </CardHeader>
+              <CardContent className="flex flex-1 flex-col">
+                <CardDescription className="flex-1">{product.description}</CardDescription>
+                <div className="mt-4 flex items-end justify-end">
+                  <Button asChild>
+                    <a href="#contact">Inquire</a>
+                  </Button>
+                </div>
+              </CardContent>
+            </Card>
+          ))}
         </div>
       </div>
     </section>

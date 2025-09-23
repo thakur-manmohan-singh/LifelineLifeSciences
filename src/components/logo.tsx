@@ -10,7 +10,7 @@ export function Logo() {
         height={40}
         priority
       />
-      <span className="sm:inline-block font-headline text-xl font-bold text-foreground hidden">Lifeline Life Sciences</span>
+      <span className="sm:inline-block font-headline text-xl font-bold text-foreground">Lifeline Life Sciences</span>
     </a>
   );
 }
