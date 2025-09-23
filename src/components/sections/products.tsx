@@ -24,7 +24,7 @@ export default function ProductsSection() {
                   width={600}
                   height={400}
                   className="aspect-[3/2] w-full object-cover"
-                  data-ai-hint="medicine box"
+                  data-ai-hint="medicine tablets"
                 />
               <CardHeader>
                 <CardTitle className="font-headline">{product.name}</CardTitle>
