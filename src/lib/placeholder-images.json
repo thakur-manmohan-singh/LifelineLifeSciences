@@ -3,31 +3,31 @@
     {
       "id": "hero-background",
       "description": "A modern laboratory with scientists working.",
-      "imageUrl": "https://picsum.photos/seed/lifeline1/1920/1080",
+      "imageUrl": "https://images.unsplash.com/photo-1614934273314-9ecfca36fc7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsYWJvcmF0b3J5JTIwc2NpZW5jZXxlbnwwfHx8fDE3NTg2MjExMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "laboratory science"
     },
     {
       "id": "about-image",
       "description": "A close-up of a DNA helix structure.",
-      "imageUrl": "https://picsum.photos/seed/lifeline2/800/600",
+      "imageUrl": "https://images.unsplash.com/photo-1643780668909-580822430155?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkbmElMjByZXNlYXJjaHxlbnwwfHx8fDE3NTg2MjExMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "dna research"
     },
     {
       "id": "service-1",
       "description": "Microscope in a lab.",
-      "imageUrl": "https://picsum.photos/seed/lifeline3/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1595130886093-3fe622c583c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtaWNyb3Njb3BlJTIwbGFifGVufDB8fHx8MTc1ODYyMTEzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "microscope lab"
     },
     {
       "id": "service-2",
       "description": "Scientist holding a test tube.",
-      "imageUrl": "https://picsum.photos/seed/lifeline4/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1581093449818-2655b2467fd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY2llbnRpc3QlMjBjaGVtaXN0cnl8ZW58MHx8fHwxNzU4NjIxMTM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "scientist chemistry"
     },
     {
       "id": "service-3",
       "description": "Petri dishes with cultures.",
-      "imageUrl": "https://picsum.photos/seed/lifeline5/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1595154038460-25385f893062?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGV0cmklMjBkaXNofGVufDB8fHx8MTc1ODYyMTEzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "petri dish"
     },
     {
@@ -41,12 +41,6 @@
       "description": "Azilife-500 product box",
       "imageUrl": "/images/azilife.png",
       "imageHint": "medicine box"
-    },
-    {
-      "id": "product-3",
-      "description": "A new product",
-      "imageUrl": "https://picsum.photos/seed/lifeline6/600/400",
-      "imageHint": "new product"
     }
   ]
 }
