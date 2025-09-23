@@ -3,17 +3,38 @@
   "products": [
     {
       "id": "prod-1",
-      "name": "Ciprolife-750",
-      "description": "Ciprofloxacin Tablets USP 750 mg. 10 x 10 Tablets.",
+      "name": "CardioGuard",
+      "description": "Advanced formula for supporting cardiovascular health and maintaining healthy blood pressure levels.",
       "price": "",
-      "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&q=80"
+      "imageUrl": "/images/1.png"
     },
     {
       "id": "prod-2",
-      "name": "Azilife-500",
-      "description": "Azithromycin tablets 500 mg. 3 tablets.",
+      "name": "NeuroBoost",
+      "description": "A powerful nootropic supplement designed to enhance cognitive function, memory, and focus.",
       "price": "",
-      "imageUrl": "https://images.unsplash.com/photo-1628771065518-0d82f1938462?w=600&q=80"
+      "imageUrl": "/images/2.png"
+    },
+    {
+      "id": "prod-3",
+      "name": "ImmunoShield",
+      "description": "Comprehensive immune support with a blend of essential vitamins, minerals, and herbal extracts.",
+      "price": "",
+      "imageUrl": "/images/3.png"
+    },
+    {
+      "id": "prod-4",
+      "name": "FlexiJoint",
+      "description": "Supports joint health, mobility, and flexibility with glucosamine, chondroitin, and MSM.",
+      "price": "",
+      "imageUrl": "/images/4.png"
+    },
+    {
+      "id": "prod-5",
+      "name": "VitaLife",
+      "description": "A complete daily multivitamin providing essential nutrients for overall wellness and vitality.",
+      "price": "",
+      "imageUrl": "/images/5.png"
     }
   ]
 }
