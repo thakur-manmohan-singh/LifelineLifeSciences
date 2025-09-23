@@ -64,7 +64,7 @@ export default function Contact() {
         </div>
         <div className="mt-12 grid gap-12 md:grid-cols-2 lg:gap-16">
           <div className="space-y-6">
-            <h3 className="font-headline text-2xl font-semibold">Contact Information</h3>
+            <h3 className="font-headline text-2xl font-semibold">Corporate Office</h3>
             <div className="space-y-4">
               <div className="flex items-start gap-4">
                 <div className="flex-shrink-0 pt-1">
@@ -95,8 +95,9 @@ export default function Contact() {
                 <div>
                   <h4 className="font-semibold">Address</h4>
                   <p className="text-foreground/80">
-                    UNIT NO-17 1st Floor, ILD TRADE TOWER,<br />
-                    Sohna Road, SECTOR-47 GURGAON
+                    Trade Tower, Sector 47, Gurugram,
+                    <br />
+                    Haryana, India
                   </p>
                 </div>
               </div>
