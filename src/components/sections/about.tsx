@@ -29,7 +29,7 @@ export default function About() {
               About Lifeline Life Sciences
             </h2>
             <p className="mx-auto mt-4 max-w-3xl text-lg text-foreground/80">
-              At Lifeline Life Sciences, we are driven by a singular mission: to forge new pathways in health and biotechnology. Our team of dedicated scientists and researchers leverages cutting-edge technology and collaborative partnerships to develop innovative solutions that address some of the most pressing health challenges of our time.
+              Lifeline Life Sciences is a professionally managed company with a vision to provide quality and affordable medicines to the larger section of the society. We have an unwavering commitment towards our customers in providing them with quality products.
             </p>
         </div>
         
